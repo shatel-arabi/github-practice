@@ -1,0 +1,14 @@
+.one{
+    background-color: rgb(183, 181, 218);visibility:visible; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;padding: 40px;color: rgb(21, 6, 34);
+}
+li{font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: rgb(122, 30, 207);}
+.two{
+    background-color: rgb(195, 235, 221);padding: 30px;font-size: 20px;
+}
+.Container{
+    background-image: url(./IMG_2707.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;   
+}
